@@ -1,0 +1,17 @@
+
+{
+    "foods": [
+        {"name": "Spaguetti",
+        "value": "123",
+        "type": "Italian"
+        },
+        {"name": "Pizza",
+        "value": "432",
+        "type": "Italian"
+        },
+        {"name": "HotDog",
+        "value": "123",
+        "type": "American"
+        }
+    ]
+  }
